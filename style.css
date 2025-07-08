@@ -4,7 +4,7 @@ html {
   width: 100%;
 }
 body{
-  font-family: algerian, cursive; /* A nice, readable font */
+  font-family: algerian, arial; /* A nice, readable font */
     margin: 0; /* Remove default body margin */
     padding: 0; /* Remove default body padding */
     background-color: #ffc0cb; /* Light gray background for the whole page */
